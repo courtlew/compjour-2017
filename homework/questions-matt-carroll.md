@@ -24,10 +24,10 @@ How did you become a data journalist? Was that a role that existed in the newsro
 You wrote last year that the sex abuse story surpassed the Spotlight team's expectations:
 > The outcome was far more explosive than we ever expected.
 
-What *did* you expect when you first started working on the story at the direction of Marty Barron? Were you skeptical that there was much of story there? And did you think it would be impossible to ever get any documents or information from the Catholic church?
+What *did* you expect when you first started working on the story? Were you skeptical that there was much that hadn't already been reported? And did you think it would be impossible to ever get any documents or information from the Catholic church?
 
 ### 4. Interviews on a sensitive subject
 You were Spotlight's data specialist, but [the movie also depicts](https://www.youtube.com/watch?v=RCYobpktFdU) you conducting interviews with victims and their families. How did you approach those interviews, knowing people would likely be reluctant or have difficulty talking about their abuse? How did you and the other reporters build trust in those situations?
 
 ### 5. Lessons learned
-The movie and other accounts have suggested that the Globe could have reported the abuse story sooner. Did that story change anything as far as how the Spotlight team or looked for or selected its stories in the future?
+The movie and other accounts have suggested that the Globe could have reported the abuse story sooner. Did that story change anything as far as how the Spotlight team looked for or selected its stories in the future?
