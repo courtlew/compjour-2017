@@ -18,7 +18,7 @@
 Can you tell us a little about the process for building the Lost and Found app?
 
 ### 2. Photos of the dead
-![warning photo](https://github.com/courtlew/compjour-2017/blob/master/homework/lostandfoundcover)
+![warning photo](https://github.com/courtlew/compjour-2017/blob/master/homework/lostandfoundcover.png)
 Was there much discussion around how to handle the sensitive issue of publishing photos of the deceased? How did the team decide to do it this way?
 
 ### 3. Path to web development
