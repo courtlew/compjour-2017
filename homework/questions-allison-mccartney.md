@@ -2,13 +2,13 @@
 
 *by Courtney Lewis*
 
-![McCartney Mug] (http://brown.columbia.edu/uploads/800008/1445451916120/allison-mccartney-223x300[1]-114-53x45x104x121_gray.jpg)
+![McCartney Mug](http://brown.columbia.edu/uploads/800008/1445451916120/allison-mccartney-223x300[1]-114-53x45x104x121_gray.jpg)
 
-- Earned a bachelor's in [Jewish, Islamic and Near Eastern studies] (http://jinelc.wustl.edu/) before attending the Stanford Journalism Program
+- Earned a bachelor's in [Jewish, Islamic and Near Eastern studies](http://jinelc.wustl.edu/) before attending the Stanford Journalism Program
 
 - Was awarded a [Magic Grant](http://brown.columbia.edu/propose) while at Stanford and now works for the Brown Institute as an Associate Program Developer
 
-- In addition to being a journalist and developer, McCartney is an artist ![DC Paining] ((https://github.com/courtlew/compjour-2017/blob/master/homework/McCartpainting.jpg)
+- In addition to being a journalist and developer, McCartney is an artist ![DC Paining](https://github.com/courtlew/compjour-2017/blob/master/homework/McCartpainting.jpg)
 
 
 ## Questions
