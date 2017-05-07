@@ -24,5 +24,5 @@ There are some great and pretty defiant quotes from judges in that story. How ea
 What kind of response did the traffic fines story get, and do you know if the system has changed at all since it ran? 
 
 ### 5. Longterm projects
-![TaggartMap photo](taggartMap.jpg)
+![TaggartMap photo](taggartMap.png)
 On Shaky Ground is described as a 19-month project. Were you part of it the whole time? And how do long-term projects like that work: do you work on other things or focus totally on one project? 
