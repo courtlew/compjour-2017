@@ -18,6 +18,7 @@ It seems like it was accepted practice to jail people for not paying fines. How 
 
 ### 3. Getting comments from judges
 >  “I can’t just let them go because they don’t have money,” she said, adding that doing so would be “unfair to the rich person.”
+
 There are some great and pretty defiant quotes from judges in that story. How easy or difficult was it to get them to talk to you?
 
 ### 4. Story impact
